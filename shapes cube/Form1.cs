@@ -55,5 +55,27 @@ namespace shapes_cube
                 MessageBox.Show(" add an interger noob");
             }
         }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+            }
+            catch
+            {
+                MessageBox.Show(" add an interger noob");
+            }
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
